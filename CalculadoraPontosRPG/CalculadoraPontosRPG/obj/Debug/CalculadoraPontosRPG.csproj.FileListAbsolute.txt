@@ -1,0 +1,7 @@
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.exe.config
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.exe
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.pdb
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.csprojAssemblyReference.cache
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.csproj.CoreCompileInputs.cache
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.exe
+C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.pdb

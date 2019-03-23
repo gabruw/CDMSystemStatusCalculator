@@ -48,9 +48,6 @@ namespace CalculadoraPontosRPG
                 Console.WriteLine("Digite a classificação do ACR: [B|N|M]");
                 listVal.Add(Console.ReadLine().ToString());
 
-                Console.WriteLine("Digite a classificação do WILL: [B|N|M]");
-                listVal.Add(Console.ReadLine().ToString());
-
                 var dictStatus = newProg.separarPontos(listVal, listType);
 
                 foreach (var status in dictStatus)
@@ -69,7 +66,6 @@ namespace CalculadoraPontosRPG
                         case "DET":
                         case "CRIT":
                         case "ACR":
-                        case "WILL":
                             Console.WriteLine(status.Key + ":   " + status.Value + "%");
                             break;
                     }
@@ -226,7 +222,6 @@ namespace CalculadoraPontosRPG
             listaTipoStatus.Add("DET");
             listaTipoStatus.Add("CRIT");
             listaTipoStatus.Add("ACR");
-            listaTipoStatus.Add("WILL");
 
             return listaTipoStatus;
         }

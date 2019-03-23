@@ -17,6 +17,5 @@ namespace CalculadoraPontosRPG
         public string DET { get; set; }
         public string CRIT { get; set; }
         public string ACR { get; set; }
-        public string WILL { get; set; }
     }
 }

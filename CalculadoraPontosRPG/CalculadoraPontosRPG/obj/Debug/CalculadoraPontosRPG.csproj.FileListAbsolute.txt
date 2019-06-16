@@ -5,3 +5,10 @@ C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\C
 C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.csproj.CoreCompileInputs.cache
 C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.exe
 C:\Users\Snyp\source\repos\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.pdb
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.exe.config
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.exe
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\bin\Debug\CalculadoraPontosRPG.pdb
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.csprojAssemblyReference.cache
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.csproj.CoreCompileInputs.cache
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.exe
+C:\Users\snyp_\Documents\GitHub\CDMSystemStatusCalculator\CalculadoraPontosRPG\CalculadoraPontosRPG\obj\Debug\CalculadoraPontosRPG.pdb
